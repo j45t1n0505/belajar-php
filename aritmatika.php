@@ -1,0 +1,36 @@
+<?php 
+
+$a = 12;
+$b = 5;
+
+// penjumlahan
+$c = $a + $b;
+echo "$a + $b = $c";
+echo "<hr>";
+
+// pengurangan
+$c = $a - $b;
+echo "$a - $b = $c";
+echo "<hr>";
+
+// perkalian
+$c = $a * $b;
+echo "$a * $b = $c";
+echo "<hr>";
+
+// pembagian
+$c = $a / $b;
+echo "$a / $b = $c";
+echo "<hr>";
+
+// sisa bagi
+$c = $a % $b;
+echo "$a % $b = $c";
+echo "<hr>";
+
+// pangkat
+$c = $a ** $b;
+echo "$a ** $b = $c";
+echo "<hr>";
+
+?>
